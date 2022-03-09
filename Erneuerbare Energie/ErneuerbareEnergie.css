@@ -1,0 +1,18 @@
+#box1 {
+    background-color: rgb(164, 165, 165);
+    height: 50px;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  h2 {
+    color: rgb(0, 0, 0);
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  background-image: url("Warenkorb.jpg");
